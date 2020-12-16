@@ -18,7 +18,7 @@ public class ClassHashMap {
 		hm.put(null, "Jaipur"); // inserted the value .. key is null
 		hm.put(3, null); // multiple null values
 		hm.put(76, null);
-		hm.put(21, null);
+	//	hm.put(21, null);
 
 		System.out.println(hm);
 		System.out.println(hm.get(null));
